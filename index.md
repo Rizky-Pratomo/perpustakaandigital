@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Artikel tugas EFLA](ebook/ArtikelTugasEFLA.pdf) – Rizky.P, dkk (2020) 
+1. [Artikel](ebook/Artikel.pdf) – Rizky.P, dkk (2020) 
 2. Contoh buku lain
 ---
 *Powered by GitHub Pages*
