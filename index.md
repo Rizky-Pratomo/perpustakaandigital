@@ -15,7 +15,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Consensus Conflict and Social Capital](<ebook/Artikel tugas EFLA.pdf>) – Fredrik Hanell (2026)
 6. [Finanzierung von Open Access-Übergangsmodellen](<ebook/Artikel Finanzierung von Open Access.pdf>) – Brigitte Kromp and Frank Koren-Wilhelmer (2019)
 7. [Researchers' Adoption of an Institutional Central Fund for Open-Access Article-Processing Charges](<ebook/Artikel Researchers’ Adoption of an Institutional.pdf>) – Stephen Pinfield and Christine Middleton (2016)
-8. [Trust in Generative AI Tools: A Comparative Study of Higher Education Students, Teachers, and Researchers](<ebook/Artikel Trust in Generative AI Tools(2).pdf>) – Elena Ðerić, Domagoj Frank, and Marin Milković (2025)
+8. [Trust in Generative AI Tools: A Comparative Study of Higher Education Students, Teachers, and Researchers](<ebook/Artikel Trust in Generative AI Tools.pdf>) – Elena Ðerić, Domagoj Frank, and Marin Milković (2025)
 9. [Managing Open Access](<ebook/Artikel Managing open access.pdf>) – Susan Ashworth et al. (2014)
 10. [How Artificial Intelligence Is Reshaping Information Literacy in Academic Libraries](<ebook/Artikel How artificial intelligence is reshaping information literacy.pdf>) – Munazza Jabeen and Claudia Lux (2026)
 11. [Transforming Libraries Through Information Technology](<ebook/Rangkuman UGC Muhammad Rizky Pratomo (13040124140128)_C.pdf>) – Muhammad Rizky Pratomo (2026)
