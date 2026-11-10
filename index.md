@@ -8,7 +8,7 @@ Kelas C
 Selamat Datang di Perpustakaan Digital.
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
-1. [The Status of the Digital Preservation Policies and Plans of Institutional Repositories](ebook/Artikel%20The%20status%20of%20the%20digital%20preservation%282%29.pdf) – Hellen Ndegwa et al. (2022)
+1. [Consensus, Conflict and Social Capital](ebook/Artikel%20tugas%20EFLA.pdf) – Fredrik Hanell (2026)
 2. [AI Information Encounters and University Students' Digital Burnout](ebook/Artikel%20AI%20information%20encounters%20and%20university%20students%20digital%20burnout.pdf) – Zongshuang Li and Mingxia Song (2026)
 3. [Breakthrough Barriers to Knowledge Sharing Using Modern Technologies in Academic Libraries in South Africa](ebook/artikel%20Breakthrough%20Barriers%20to%20Knowledge.pdf) – Tlou Maggie Masenya (2024)
 4. [From Search Results to Generative Answers](ebook/Artikel%20From%20search%20results%20to%20generative%20answers.pdf) – Yolanda Casermeiro-Corpas et al. (2027)
